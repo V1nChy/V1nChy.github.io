@@ -207,16 +207,18 @@ header .entry-meta {
         background-color: rgba($black, 0.6);
         background-blend-mode: multiply;
         background-position: center center;
+		background-size: cover;
     }
     @media #{$notsmall} {
         color: white;
-        padding: 10em;
+        padding: 5em;
         margin-left: -4rem;
         margin-right: -4rem;
         margin-top: -2rem;
         border-radius: 3px 3px 0 0;
-        background-color: rgba($black, 0.6);
+        background-color: rgba($black, 0.1);
         background-blend-mode: multiply;
         background-position: center center;
+		background-size: cover;
     }
 }
