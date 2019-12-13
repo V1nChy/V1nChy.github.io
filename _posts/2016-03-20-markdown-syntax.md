@@ -9,6 +9,7 @@ tag:
 - sample
 - test
 - jekyll
+feature: https://data.perfare.net/wp-content/uploads/2018/05/68794990.jpg
 comments: true
 ---
 
