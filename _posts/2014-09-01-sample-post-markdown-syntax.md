@@ -1,14 +1,10 @@
 ---
 layout: post
 title:  "Markdown Syntax"
-date:   2016-03-15
+date:   2014-09-01
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 tag:
-- markdown 
-- syntax
 - sample
-- test
-- jekyll
 feature: https://data.perfare.net/wp-content/uploads/2018/05/68794990.jpg
 comments: true
 ---

@@ -1,14 +1,10 @@
 ---
 layout: post
 title:  "MathJax Example"
-date:   2015-08-10
+date:   2014-09-06
 excerpt: "MathJax Example for Moon Jekyll Theme."
 tag:
-- markdown 
-- mathjax
-- example
-- test
-- jekyll
+- sample
 comments: true
 ---
 
