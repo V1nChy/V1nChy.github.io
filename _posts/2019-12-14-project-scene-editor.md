@@ -5,7 +5,9 @@ date:   2019-12-14
 excerpt: "mmorpg游戏项目开发过程中使用的编辑器。"
 project: true
 tag:
-- project, mmorpg
+- project
+- mmorpg
+- 手游
 comments: false
 ---
 
@@ -18,3 +20,6 @@ comments: false
 * 场景对象摆放
 * 场景区域编辑
 * 数据导出
+
+## 项目地址
+https://github.com/V1nChy/GameSceneEditor
