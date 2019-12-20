@@ -18,10 +18,10 @@ comments: false
 ## 主要功能
 
 * 场景资源导入格式化
-* 场景对象摆放
+* 场景对象编辑
 * 场景区域编辑
 * 数据导出
 
 ## 项目地址
 
-github地址：https://github.com/V1nChy/Game-Scene-Editor
+github地址：[https://github.com/V1nChy/Game-Scene-Editor](https://github.com/V1nChy/Game-Scene-Editor)
