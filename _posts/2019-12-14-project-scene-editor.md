@@ -10,7 +10,6 @@ tag:
 - 手游
 comments: false
 ---
-
 ## 概要
 
 面相美术和策划，用于场景资源和数据的导入导出，以及游戏对象和区域编辑等用途。采用U3D开发，运行模式下使用。
@@ -24,4 +23,4 @@ comments: false
 
 ## 项目地址
 
-github地址：[https://github.com/V1nChy/Game-Scene-Editor](https://github.com/V1nChy/Game-Scene-Editor)
+github地址：[场景编辑器](https://github.com/V1nChy/Game-Scene-Editor)

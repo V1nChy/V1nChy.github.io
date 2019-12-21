@@ -8,7 +8,6 @@ tag:
 - 手游
 comments: false
 ---
-
 ## 概要
 
 在游戏项目的开发过程中，通常都需要一个功能完善的编辑器来协助开发，并依附编辑器形成一套完整的美术、策划、程序共同协作工作的流程，以此明确各个人员的工作内容分工，达到并行开发，提高开发效率的目的。针对本人参与的mmorpg手游项目所使用的编辑器，在这里做一些记录和总结。
@@ -66,4 +65,4 @@ comments: false
 
 ## 项目地址
 
-github地址：[https://github.com/V1nChy/Game-Scene-Editor](https://github.com/V1nChy/Game-Scene-Editor)
+github地址：[场景编辑器](https://github.com/V1nChy/Game-Scene-Editor)

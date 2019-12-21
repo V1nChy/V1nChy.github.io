@@ -8,7 +8,6 @@ tag:
 - 手游
 comments: false
 ---
-
 ## 概要
 
 虽然现在手机内存普遍都非常大了，但因为项目需要面向中低端机，且ios内存比较小，所以对内存优化管理需要谨小慎微的进行。在项目中，针对不同的平台，在资源导入的时候做了差异化设置，在这里做下记录。
@@ -47,4 +46,4 @@ comments: false
 
 ## 项目地址
 
-github地址：[https://github.com/V1nChy/Game-Scene-Editor](https://github.com/V1nChy/Game-Scene-Editor)
+github地址：[场景编辑器](https://github.com/V1nChy/Game-Scene-Editor)
