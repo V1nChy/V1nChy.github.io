@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "热更新记录"
+title:  "热更新方案记录"
 date:   2019-12-21
 excerpt: "mmorpg手游项目中热更新流程、管理方案记录。"
 tag:
